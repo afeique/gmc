@@ -1,2 +1,2 @@
 # gmc
-A text dump of the GameMaker Community Forums from April 27, 2006
+A text dump of the GameMaker Community Forums from May 01, 2016
